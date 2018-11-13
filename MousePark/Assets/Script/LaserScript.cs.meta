@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 4cb3db2160e3047a495bf4cd631ae0ed
+timeCreated: 1529483997
+licenseType: Free
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - laserOnSprite: {instanceID: 0}
+  - laserOffSprite: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
